@@ -117,7 +117,7 @@
                 },
                 {
                   "name": "position",
-                  "selector": "div:nth-child(3) p"
+                  "selector": "div:nth-child(3)"
                 }
               ]
             }
