@@ -101,6 +101,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "position",
+        "value": "",
+        "label": "Image Position",
+        "valueType": "string"
       }
     ]
   },
