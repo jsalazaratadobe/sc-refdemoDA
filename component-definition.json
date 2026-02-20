@@ -105,11 +105,11 @@
               "fields": [
                 {
                   "name": "image",
-                  "selector": "div:nth-child(1) picture img[src]"
+                  "selector": "div:nth-child(1)>picture>img[src]"
                 },
                 {
                   "name": "imageAlt",
-                  "selector": "div:nth-child(1) picture img[alt]"
+                  "selector": "div:nth-child(1)>picture>img[alt]"
                 },
                 {
                   "name": "text",
@@ -117,7 +117,7 @@
                 },
                 {
                   "name": "position",
-                  "selector": "div:nth-child(3)"
+                  "selector": "div:nth-child(3)>:first-child"
                 }
               ]
             }
