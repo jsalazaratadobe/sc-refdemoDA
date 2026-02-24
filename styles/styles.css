@@ -483,7 +483,6 @@ a.button.secondary,
 button.secondary {
   background-color: #ffc719;
   border: 2px solid #ffc719;
-  color: var(--text-color);
   border-radius: 4px;
   font-family: var(--heading-font-family);
   font-style: normal;
